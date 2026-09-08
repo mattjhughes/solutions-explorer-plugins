@@ -1,0 +1,31 @@
+{
+  "name": "solutions-explorer",
+  "version": "0.3.0",
+  "description": "Find and share AI prompts, guides, and tools for CSU faculty and staff.",
+  "author": {
+    "name": "Matt"
+  },
+  "skills": "./skills/",
+  "interface": {
+    "displayName": "Solutions Explorer",
+    "shortDescription": "AI resources for CSU faculty and staff",
+    "longDescription": "Find AI resources through conversation, compare relevant solutions, and get help using them. Focused cards let you inspect files, review a submission, or privately authorize changes.",
+    "developerName": "Matt",
+    "category": "Productivity",
+    "capabilities": [
+      "Browse solutions",
+      "Get help using a solution",
+      "Share a solution",
+      "Update a solution and read feedback"
+    ],
+    "defaultPrompt": [
+      "Help me find an AI resource for my work.",
+      "Help me share a solution.",
+      "Help me update a solution I shared."
+    ],
+    "brandColor": "#C91235",
+    "composerIcon": "./assets/icon.png",
+    "logo": "./assets/icon.png"
+  },
+  "apps": "./.app.json"
+}

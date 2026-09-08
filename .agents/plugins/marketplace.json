@@ -1,0 +1,21 @@
+{
+  "name": "solutions-explorer-workspace",
+  "interface": {
+    "displayName": "Solutions Explorer"
+  },
+  "plugins": [
+    {
+      "name": "solutions-explorer",
+      "source": {
+        "source": "local",
+        "path": "./plugins/solutions-explorer"
+      },
+      "policy": {
+        "installation": "AVAILABLE",
+        "authentication": "ON_INSTALL"
+      },
+      "category": "Productivity",
+      "pluginId": "Plugin_1a5e9e56912c819193bf4aa92042c7e4"
+    }
+  ]
+}
