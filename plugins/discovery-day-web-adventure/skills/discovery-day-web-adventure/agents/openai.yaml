@@ -1,0 +1,4 @@
+interface:
+  display_name: "Discovery Day Web Adventure"
+  short_description: "Build, review, and share a manageable private one-page website"
+  default_prompt: "Use $discovery-day-web-adventure to guide me through the Web Adventure."

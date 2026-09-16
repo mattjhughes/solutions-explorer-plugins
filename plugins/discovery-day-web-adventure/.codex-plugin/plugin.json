@@ -1,0 +1,20 @@
+{
+  "name": "discovery-day-web-adventure",
+  "version": "0.1.0+codex.20260915034012",
+  "description": "Guides Discovery Day attendees from a manageable website idea to a reviewed, workspace-private Sites page they can share internally.",
+  "author": {
+    "name": "ChatGPT Discovery Day Organizers"
+  },
+  "skills": "./skills/",
+  "interface": {
+    "displayName": "Discovery Day Web Adventure",
+    "shortDescription": "Ideate, prototype, review, and share a private one-page website.",
+    "longDescription": "A guided four-stage Discovery Day experience for turning a focused idea into a reviewed, workspace-private webpage using Sites.",
+    "developerName": "ChatGPT Discovery Day Organizers",
+    "category": "Productivity",
+    "capabilities": [
+      "Interactive"
+    ],
+    "defaultPrompt": "Guide me through the Discovery Day Web Adventure."
+  }
+}

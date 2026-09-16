@@ -16,6 +16,18 @@
       },
       "category": "Productivity",
       "pluginId": "Plugin_1a5e9e56912c819193bf4aa92042c7e4"
+    },
+    {
+      "name": "discovery-day-web-adventure",
+      "source": {
+        "source": "local",
+        "path": "./plugins/discovery-day-web-adventure"
+      },
+      "policy": {
+        "installation": "AVAILABLE",
+        "authentication": "ON_INSTALL"
+      },
+      "category": "Productivity"
     }
   ]
 }
